@@ -1,4 +1,6 @@
-images/CabeceraPresentacion.png
+./images/CabeceraPresentacion.png
+
+
 
 # ¡Hola! Soy Raúl Murillo Gallego 👋💻
 
