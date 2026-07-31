@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola, soy Raúl Murillo 👋
 
-<!--
-**RaulMGallego/RaulMGallego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profesor de Formación Profesional y desarrollador de software especializado
+en Inteligencia Artificial, Visión por Computador y Ciencia de Datos.
 
-Here are some ideas to get you started:
+💻 Desarrollo de Software  
+🤖 Machine Learning  
+👁️ Computer Vision  
+🔤 OCR y reconocimiento de texto  
+🐍 Python  
+☕ Java  
+☁️ Cloud Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente desarrollo proyectos relacionados con detección de objetos,
+análisis de vídeo mediante YOLO y procesamiento de imágenes.
