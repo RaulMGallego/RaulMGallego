@@ -1,6 +1,4 @@
-./images/CabeceraPresentacion.png
-
-
+![Cabecera GiHub](images/CabeceraPresentacion.png)
 
 # ¡Hola! Soy Raúl Murillo Gallego 👋💻
 
